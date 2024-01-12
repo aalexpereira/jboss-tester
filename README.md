@@ -10,7 +10,7 @@ Possible Insecure Deserialization Tester in JBoss Enterprise Application
 1. **Clone the repository:**
 
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/lexy-1/jboss-tester
    cd jboss-tester
    ```
 
@@ -26,7 +26,7 @@ remember to create a text file containing all the sites to be tested called a ho
 
 ## Contributing
 
-Contributions to AstraPentest are welcome! Please read our contributing guidelines for more information.
+Contributions to Jboss-Tester are welcome! Please read our contributing guidelines for more information.
 
 ## MIT License
 
